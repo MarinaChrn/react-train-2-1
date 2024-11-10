@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-train-2-1/static/css/main.64a52265.css",
+    "main.js": "/react-train-2-1/static/js/main.eb1b0a45.js",
+    "static/js/453.cd0d1107.chunk.js": "/react-train-2-1/static/js/453.cd0d1107.chunk.js",
+    "index.html": "/react-train-2-1/index.html",
+    "main.64a52265.css.map": "/react-train-2-1/static/css/main.64a52265.css.map",
+    "main.eb1b0a45.js.map": "/react-train-2-1/static/js/main.eb1b0a45.js.map",
+    "453.cd0d1107.chunk.js.map": "/react-train-2-1/static/js/453.cd0d1107.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64a52265.css",
+    "static/js/main.eb1b0a45.js"
+  ]
+}

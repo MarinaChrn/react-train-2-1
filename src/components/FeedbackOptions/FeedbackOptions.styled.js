@@ -26,6 +26,7 @@ export const OptionButton = styled.button`
   background-color: transparent;
   min-width: 90px;
   font-size: 18px;
+  color: black;
   cursor: pointer;
   padding: 10px 15px;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
